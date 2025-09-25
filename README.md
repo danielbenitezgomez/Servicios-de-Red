@@ -1,3 +1,4 @@
 # Servicios-de-Red
 Ejercicios de Servicios de Red e Internet
-<a href="index">Actividades</a>
+<br>
+<a href="index.html">Actividades</a>
