@@ -2,7 +2,7 @@
 Ejercicios de Servicios de Red e Internet
 
 <a href="https://github.com/danielbenitezgomez/Servicios-de-Red/blob/main/TEMA1/Actividad%201%20apache.pdf">Actividad 1 Apache</a><br>
-<a href="">Actividad 2 configuracion apache</a><br>
+<a href="">Actividad 2 configuracion apache</a> <p>--></p> <a href="">add_domain</a> <a href="">add_port</a> <a href="">create_page</a><br>
 <a href="">Actividad 5 directiva directory</a><br>
 <a href="">Actividad 6 expresiones regulares</a><br>
 <a href="">Actividad 7 Reescritura</a><br>
