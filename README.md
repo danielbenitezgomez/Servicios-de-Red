@@ -10,3 +10,5 @@ Ejercicios de Servicios de Red e Internet
 <a href="https://github.com/danielbenitezgomez/Servicios-de-Red/blob/main/2º%20Trimestre/Ejercicio8_DNS.pdf">Actividad 8 DNS</a><br>
 
 <h2>AWS</h2>
+
+<a href="https://github.com/danielbenitezgomez/Servicios-de-Red/blob/main/2º%20Trimestre/Practica%201_AWS.pdf">Practica 1 AWS</a><br>
